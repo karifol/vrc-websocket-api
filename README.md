@@ -68,6 +68,14 @@ Received at 2024-01-01 12:34:56: {
 
 ---
 
+## 参考資料
+
+このスクリプトは、以下のサイトの情報を参考にしています。
+
+- **VRChat Community - WebSocket:** [https://vrchat.community/websocket](https://vrchat.community/websocket)
+
+---
+
 ## 免責事項
 
 このスクリプトは、VRChat WebSocket API への接続方法を理解するための**教育的およびデモンストレーション目的**で提供されています。VRChat の API 利用規約および利用ポリシーを常に確認し、遵守する責任は利用者自身にあります。
